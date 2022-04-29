@@ -1,4 +1,21 @@
-### Hi there 👋
+Hi there, I'm Danna Velasquez 👋
+
+Engineer with specialization in project management with knowledge in HTML5, XML, CSS, in programming languages such as JavaScript and Java, in programs such as Visual Code, environment management NodeJS and tools like Git and Gitbash.
+
+Knowledge in database engine SQL Server, MySQL.
+
+Management of agile Scrum methodology.
+
+I'm currently learning about: Javascript - HTML - CSS - Node.js - React
+
+
+How to reach me:
+dannamvb95@gmail.com
+
+https://www.linkedin.com/in/danna-michel-velasquez-blanco/
+
+
+
 
 <!--
 **DannaVelasquez/DannaVelasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
