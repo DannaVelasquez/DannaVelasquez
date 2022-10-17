@@ -6,7 +6,7 @@ Knowledge in database engine SQL Server, MySQL.
 
 Management of agile Scrum methodology.
 
-I'm currently learning about: Javascript - HTML - CSS - Node.js - React
+I'm currently learning about: Java - Javascript - HTML - CSS - Node.js - React
 
 
 How to reach me:
