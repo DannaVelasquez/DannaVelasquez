@@ -2,11 +2,11 @@ Hi there, I'm Danna Velasquez 👋
 
 Engineer with specialization in project management with knowledge in HTML5, XML, CSS, in programming languages such as JavaScript and Java, in programs such as Visual Code, environment management NodeJS and tools like Git and Gitbash.
 
-Knowledge in database engine SQL Server, MySQL.
+Knowledge in database engine SQL Server, MySQL. NoSQL like MongoDB
 
-Management of agile Scrum methodology.
+Management of agile Scrum methodology.Jira y Kanban
 
-I'm currently learning about: Java - Javascript - HTML - CSS - Node.js - React
+Java - Javascript - HTML - CSS - Node.js - React
 
 
 How to reach me:
